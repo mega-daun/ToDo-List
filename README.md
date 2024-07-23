@@ -1,1 +1,1 @@
-"# stunning-robot" 
+Simple Qt-QML project
